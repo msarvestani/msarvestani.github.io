@@ -11,7 +11,7 @@ title                    : "Madineh Sedigh-Sarvestani"
 mastheadtitle		 : "About"
 name                     : &name "Madineh Sedigh-Sarvestani"
 description              : &description "personal description"
-url                      : https://msarvestani.github.io 
+url                      : https://msarvestani.com 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "msarvestani/msarvestani.github.io"
 teaser                   :  
