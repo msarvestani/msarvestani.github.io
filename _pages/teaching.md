@@ -9,7 +9,7 @@ author_profile: true
 
 I'm co-organizing the first [Tree shrew Meeting](https://mpfi.org/treeshrewmeeting/), to bring together neuroscientists using the tree shrew animal model. This virtual meeting will be followed by an in-person meeting in the future.
 
-I'm involed in [Neuromatch Academy](https://www.neuromatchacademy.org/), a three week virtual computational neuroscience summer school designed to be accessible to students world-wide. In 2020, I was a volunteer and served on the executive committee. In 2021, I'll continue my work with NMA as the Chief Instruction Officer. NMA served 1700 students in 2020 and will reach many more through freely available [course material](https://www.neuromatchacademy.org/syllabus). 
+I'm involed in [Neuromatch Academy](https://www.neuromatchacademy.org/), a three week virtual computational neuroscience summer school designed to be accessible to students world-wide. In 2020, I was served on the executive committee. In 2021, I'll continue my volunteer work with NMA as the Chief Instruction Officer. NMA served 1700 students in 2020 and will reach many more through freely available [course material](https://www.neuromatchacademy.org/syllabus). 
 
 I've also been involved in the Cold Spring Harbor Summer School on [Neural Data Science](https://meetings.cshl.edu/courses.aspx?course=c-neudata&year=19), as a TA in 2015 and 2017 and a co-instructor in 2019.
 
