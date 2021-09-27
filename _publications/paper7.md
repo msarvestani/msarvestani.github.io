@@ -5,5 +5,5 @@ permalink: /publication/paper7
 date: 2021-06-15
 
 
-citation: 'Elise Savier, Madineh Sedigh-Sarvestani, Ralf Wimmer, David Fitzpatrick. Zoological Research, 2021, In press.'
+citation: 'Elise Savier, Madineh Sedigh-Sarvestani, Ralf Wimmer, David Fitzpatrick. Zoological Research, 42(4): 478-81, 2021.'
 ---
