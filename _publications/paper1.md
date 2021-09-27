@@ -1,12 +1,12 @@
 ---
-title: "A sinusoidal transform of the visual field in cortical area V2"
+title: "A Sinusoidal transformation of the visual field is the basis for periodic maps in area V2."
 collection: publications
 permalink: /publication/paper1
 date: 2021-09-26
 paperurl: '/files/paper1.pdf'
 link: 'https://www.biorxiv.org/content/10.1101/2020.12.08.416651v3'
 github: 'https://github.com/msarvestani/sinusoidalTransform'
-citation: 'Madineh Sedigh-Sarvestani, Kuo-Sheng Lee, Juliane Jaepel, Rachel Satterfield, Nicole Shultz, David Fitzpatrick. Neuron (in press) 2021.'
+citation: 'Madineh Sedigh-Sarvestani, Kuo-Sheng Lee, Juliane Jaepel, Rachel Satterfield, Nicole Shultz, David Fitzpatrick. Neuron (in press), 2021.'
 youtube: 'https://youtu.be/S0B8tY11BJ4?t=3607'
 ---
 
