@@ -4,5 +4,7 @@ collection: publications
 permalink: /publication/paper8
 date: 2022-01-07
 paperurl: '/files/paper8.pdf'
-citation: 'Madineh Sedigh-Sarvestani, David Fitzpatrick. Under Review, 2022.'
+link: 'https://www.frontiersin.org/articles/10.3389/fncir.2022.834876/full'
+
+citation: 'Madineh Sedigh-Sarvestani, David Fitzpatrick. Frontiers in Neural Circuits, 2022.'
 ---
