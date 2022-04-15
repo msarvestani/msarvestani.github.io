@@ -1,5 +1,5 @@
 ---
-title: "What and Where: Location-dependent feature sensitivity as a canonical organizing principle of the visual system"
+title: "What and Where: Location-dependent feature sensitivity as a canonical organizing principle of the visual system (review)"
 collection: publications
 permalink: /publication/paper8
 date: 2022-01-07
