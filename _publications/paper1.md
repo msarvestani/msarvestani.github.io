@@ -1,5 +1,5 @@
 ---
-title: "A Sinusoidal transformation of the visual field is the basis for periodic maps in area V2."
+title: "A Sinusoidal transformation of the visual field is the basis for periodic maps in area V2"
 collection: publications
 permalink: /publication/paper1
 date: 2021-09-26
