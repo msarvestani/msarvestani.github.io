@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a post-doc at the Max Planck Florida Institute for Neuroscience, working with David Fitzpatrick on the tree shrew visual system. In July 2023, I'll start as an assitant professor at the department of Neurobiology & Behavior at Cornell University.
+I'm a post-doc at the Max Planck Florida Institute for Neuroscience, working with David Fitzpatrick on the tree shrew visual system. In July 2023, I'll start as an assistant professor at the department of Neurobiology & Behavior at Cornell University.
 
 I want to understand how the visual system becomes perfectly suited to an animal's specific visual experience. A lot of factors influence visual experience across an animal's life-time, like the structure of the retina, the environment, and how the animal moves around in its environment. I've studied the visual system of mice, cats, and tree shrews, trying to determine how neural connections transform visual inputs. More recently, I've started to think about how these transformations are shaped by, and shape, an animal's specific movement patterns. 
  
