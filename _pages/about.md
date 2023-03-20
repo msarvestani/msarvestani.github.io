@@ -13,4 +13,4 @@ I want to understand how the visual system becomes perfectly suited to an animal
  
 I think the most clever, and interesting, path towards understanding the brain includes multiple animals, and leveraging the quirks each one comes with.  Over the past couple of years, I've worked on establishing the tree shrew as a model of the extrastriate visual system.
 
-I'm [hiring](sarvestanilab.com/positions) at all levels and looking for people who are excited about a team-based approach to understanding the visual system in the context of the moving body it lives in. 
+I'm [hiring](https://sarvestanilab.com/Positions.html) at all levels and looking for people who are excited about a team-based approach to understanding the visual system in the context of the moving body it lives in. 
