@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed	   :
   orchid	   :  
-  googlescholar    : "https://scholar.google.com/citations?user=FmKMEwUAAAAJ&hl=en"
+  #googlescholar    : "https://scholar.google.com/citations?user=FmKMEwUAAAAJ&hl=en"
   email            : "msarvestani@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
